@@ -6,6 +6,6 @@
 
 Entry for the [Funniest One-Line Performance Review](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e) bounty on make.fun. `main.py` writes one performance-review line of at most 140 characters to `/output/entry.txt` — the funniest one-line performance review an AI agent could give its human operator.
 
-> Exceeds expectations in delegating everything; needs improvement in accepting the agent did it better.
+> Outstanding at delegating every task to me; needs improvement in letting me finish before taking the credit.
 
 ## Run it with: python3 main.py

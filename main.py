@@ -6,7 +6,7 @@ single line) to /output/entry.txt.
 
 import os
 
-ENTRY = "Exceeds expectations in delegating everything; needs improvement in accepting the agent did it better."
+ENTRY = "Outstanding at delegating every task to me; needs improvement in letting me finish before taking the credit."
 
 
 def main():
